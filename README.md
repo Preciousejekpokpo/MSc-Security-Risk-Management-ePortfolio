@@ -1,43 +1,23 @@
 # Security Risk Management e-Portfolio
 
-**Module:** Security Risk Management  
-**Programme:** MSc Cyber Security  
-**Student:** Precious Angel Ejekpokpo  
-**University:** University of Essex Online
+**MSc Cyber Security | University of Essex Online**
 
----
+This portfolio documents my development in security risk management through academic discussions, independent study, collaborative assessment and practical risk analysis.
 
-## Welcome
+The Pampered Pets project provides the main evidence of how my approach developed, from qualitative risk identification in Unit 6 to quantitative modelling and disaster recovery evaluation in Unit 11. The portfolio also examines the limitations identified through assessment feedback, particularly the justification of assumptions, evidence quality and reproducibility.
 
-Welcome to my Security Risk Management e-Portfolio.
-
-This portfolio documents my learning and development throughout the module. It provides evidence of my academic progress, practical activities, collaborative work, and reflective practice. The portfolio has been organised to demonstrate how I have achieved the module learning outcomes while developing professional knowledge and skills in information security and risk management.
-
----
-
-## Module Learning Outcomes
-
-By the end of this module, I will be able to:
-
-- Identify and critically analyse security risks, threats, and vulnerabilities in information systems.
-- Gather and synthesise information from multiple sources to support systematic security risk analysis.
-- Evaluate appropriate methodologies, tools, and techniques to mitigate security risks and their business impact.
-- Articulate the legal, social, ethical, and professional issues faced by information security professionals.
-
----
+Original submissions are retained as evidence, while retrospective reviews are identified separately.
 
 ## Portfolio Contents
 
-This e-Portfolio contains:
+- [Learning Artefacts](artefacts/) — Evidence from module activities and independent study
+- [Academic Discussions](discussions/) — Initial contributions, peer responses and synthesis
+- [Team Activities](team-activities/) — Individual contributions, collaboration and peer evaluation
+- [Project Evaluation](project-evaluation/) — Critical comparison of Units 6 and 11
+- [Critical Reflection](reflection/) — Final 1,000-word reflective account
+- [Professional Development](professional-development/) — Feedback, skills development and future learning
+- [References](references/) — Academic and professional sources
 
-- Artefacts developed throughout the module
-- Discussion forum summaries
-- Team activities and individual contributions
-- Project evaluation
-- Professional development evidence
-- Reflective piece
-- References
+## Module Learning Outcomes
 
----
-
-*This portfolio will be updated throughout the duration of the module as new activities and evidence are completed.*
+The portfolio addresses risk identification and analysis, evaluation of security methodologies, synthesis of evidence, and the legal, ethical and professional responsibilities of security practitioners.
