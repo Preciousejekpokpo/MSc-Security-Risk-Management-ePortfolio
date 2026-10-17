@@ -1,5 +1,7 @@
 # Unit 4 | Threat Modelling and the Limits of Method Selection
 
+*Retrospective review prepared for the final e-portfolio, drawing on the Unit 4 readings and workshop material, together with feedback from the Unit 6 and Unit 11 assessments.*
+
 ## Critical Review
 
 The Unit 4 reading raised an important question about how threat-modelling methods should be selected, particularly when identifying a threat does not necessarily establish its significance to the organisation. Shevchenko et al. (2018) examine twelve approaches with different purposes and emphases, suggesting that their suitability depends on the system and the questions being investigated. STRIDE helps structure the identification of security threats, while attack trees explore possible routes to a defined outcome, although neither can establish risk levels without considering the system's exposure, consequences and available evidence.
@@ -18,4 +20,4 @@ Unit 4 readings on threat-modelling methods, the industrial cyber-physical syste
 
 Jbair, M., Ahmad, B., Maple, C. and Harrison, R. (2022) 'Threat modelling for industrial cyber physical systems in the era of smart manufacturing', *Computers in Industry*, 137, article 103611. Available at https://doi.org/10.1016/j.compind.2022.103611.
 
-Shevchenko, N., Chick, T., O'Riordan, P., Scanlon, T. and Woody, C. (2018) *Threat Modeling: A Summary of Available Methods*. Pittsburgh, PA. Software Engineering Institute, Carnegie Mellon University. Available at https://sei.cmu.edu/library/threat-modeling-a-summary-of-available-methods/.
+Shevchenko, N., Chick, T., O'Riordan, P., Scanlon, T. and Woody, C. (2018) *Threat Modeling: A Summary of Available Methods*. Pittsburgh, PA: Software Engineering Institute, Carnegie Mellon University. Available at https://sei.cmu.edu/library/threat-modeling-a-summary-of-available-methods/.
