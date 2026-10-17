@@ -25,7 +25,7 @@ Each artefact will include:
 - Unit 2
 - Unit 3
 - [Unit 4 – Threat Modelling and the Limits of Method Selection](unit-04-threat-modelling-review.md)
-- Unit 5
+- - [Unit 5 – Data Protection, Access Control and Organisational Accountability](unit-05-data-protection-case-study.md)
 - Unit 6
 - Unit 7
 - Unit 8
