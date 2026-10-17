@@ -24,7 +24,7 @@ Each artefact will include:
 - Unit 1
 - Unit 2
 - Unit 3
-- Unit 4
+- [Unit 4 – Threat Modelling and the Limits of Method Selection](unit-04-threat-modelling-review.md)
 - Unit 5
 - Unit 6
 - Unit 7
