@@ -28,6 +28,6 @@ Each artefact will include:
 - [Unit 5 – Data Protection, Access Control and Organisational Accountability](unit-05-data-protection-case-study.md)
 - [Unit 6 – Group Risk Assessment and Individual Contribution](../team-activities/unit-06-group-contribution.md)
 - [Units 7–9 – Vulnerability Scoring and Risk Prioritisation](units-07-09-cvss-review.md)
-- Unit 10
+- [Unit 10 – Disaster Recovery and Operational Resilience](unit-10-disaster-recovery-review.md)
 - Unit 11
 - Unit 12
