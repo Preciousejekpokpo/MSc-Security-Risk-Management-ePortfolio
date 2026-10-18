@@ -2,15 +2,15 @@
 
 **Activity**
 
-Collaborative discussion based on Hancock et al. (2024), including peer responses and a final synthesis.
+Discussion of Hancock et al. (2024), peer responses and final synthesis.
 
 ## Critical Review
 
-My initial argument questioned the confidence placed in digital evidence when investigative decisions overlook the knowledge of affected communities. The peer discussion complicated this position. Anooj's concern about exposing sensitive information showed how harm could arise before investigative findings were reached, while Janet's challenge to technical solutions highlighted why protecting data also requires scrutiny of its collection, control and use.
+My initial argument questioned reliance on digital evidence when investigations overlook affected communities. Anooj's concerns about exposing sensitive information showed that harm could arise before findings were reached, while Janet's challenge to technical solutions prompted me to examine who collects information, controls it and decides how it is used.
 
-A more difficult question concerned how much authority communities should have to challenge findings. I agreed with Anooj that participation must influence decisions, but questioned whether contested findings should automatically be withheld, particularly when objections might themselves be disputed. Independent review appeared more defensible, provided it could examine competing evidence without excluding the communities whose experiences were being assessed.
+Community participation raised a more difficult question. I agreed that people affected should influence decisions, but doubted whether disputed findings should automatically be withheld, particularly where objections might themselves be contested. Independent review seemed more defensible if it could examine competing evidence without marginalising those communities.
 
-My final synthesis retained governance as a central concern while giving greater weight to evidence provenance, technical protection and meaningful participation. I became more cautious about accepting safeguards simply because they were intended to improve fairness, recognising that their practical consequences and accountability also required examination.
+My final synthesis retained governance as a central concern but gave greater weight to evidence provenance, technical protection and the limits of proposed safeguards. I became less willing to assume that measures intended to improve fairness would necessarily strengthen accountability.
 
 ## Supporting Evidence
 
