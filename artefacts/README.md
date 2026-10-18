@@ -9,6 +9,7 @@ The reviews are organised by unit. Retrospective activities and independent lear
 - [Unit 4 – Threat Modelling](unit-04-threat-modelling-review.md)
 - [Unit 5 – Data Protection](unit-05-data-protection-case-study.md)
 - [Unit 7 – Risk Modelling Practical](unit-07-risk-modelling-practical-2026.ipynb)
+- [Unit 8 – Business Continuity and Cloud Resilience](unit-08-business-continuity-cloud-resilience.md)
 - [Units 7–9 – Vulnerability Scoring](units-07-09-cvss-review.md)
 - [Unit 10 – Disaster Recovery](unit-10-disaster-recovery-review.md)
 
