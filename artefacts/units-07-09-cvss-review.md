@@ -1,6 +1,6 @@
 # Units 7–9 | Vulnerability Scoring and Risk Prioritisation
 
-*Retrospective review based on independent reading 
+*Retrospective review based on independent reading.*
 
 Wunder et al. (2024) question the consistency of CVSS assessments, showing how evaluators can assign different severity ratings to the same vulnerabilities. What interested me was the implication for risk decisions, since a standardised scoring framework may create an appearance of precision without resolving differences in judgement. However, inconsistency alone does not make CVSS unsuitable, particularly when its scores are interpreted alongside evidence of exploitation and organisational consequences.
 
