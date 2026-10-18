@@ -27,9 +27,7 @@ Each artefact will include:
 - [Unit 4 – Threat Modelling and the Limits of Method Selection](unit-04-threat-modelling-review.md)
 - [Unit 5 – Data Protection, Access Control and Organisational Accountability](unit-05-data-protection-case-study.md)
 - [Unit 6 – Group Risk Assessment and Individual Contribution](../team-activities/unit-06-group-contribution.md)
-- Unit 7
-- Unit 8
-- Unit 9
+- [Units 7–9 – Vulnerability Scoring and Risk Prioritisation](units-07-09-cvss-review.md)
 - Unit 10
 - Unit 11
 - Unit 12
