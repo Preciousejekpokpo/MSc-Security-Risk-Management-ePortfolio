@@ -1,10 +1,10 @@
 # Unit 10 | Disaster Recovery and Operational Resilience
 
-*Retrospective review informed by Unit 10 reading and the Unit 11 assessment feedback.*
+*Retrospective review informed by Unit 10 reading and subsequent assessment feedback.*
 
-Alhazmi and Malaiya (2013) examine the trade-off between recovery objectives and cost, while Corbari et al. (2024) approach resilience through the operational activities that depend on technical systems. Although the latter focuses on military operations, its emphasis on connecting infrastructure to operational requirements offers a useful perspective for Pampered Pets, where restoring individual services would have limited value if customers could not complete purchases.
+Alhazmi and Malaiya (2013) examine the relationship between recovery objectives and cost, while Corbari et al. (2024) emphasise the operational activities supported by technical systems. Although developed in a military context, the latter perspective is relevant to Pampered Pets, where restoring infrastructure would offer limited value if customers remained unable to complete transactions.
 
-Reviewing my Unit 11 proposal against these arguments exposed a weakness in how I assessed recovery feasibility. The proposed multi-region architecture addressed the required RTO and RPO, but without specified capacity, failover timings and database configuration, its ability to recover the entire checkout process remained unproven. More importantly, the demanding targets were specified in the scenario without sufficient evidence of their financial implications for a four-person business. A stronger assessment would establish the business justification, compare costed recovery options and test complete transactions before treating the proposed design as capable of meeting its objectives.
+These readings raised a question about the proportionality of my Unit 11 recovery proposal. The specified sub-minute objectives justified examining a multi-region architecture, but technical capability alone could not establish whether its cost and complexity were appropriate for a small business. The lecturer's concerns about failover timings and capacity further exposed the distinction between a plausible design and demonstrated recovery. A more defensible recommendation would compare costed alternatives and establish recovery performance through end-to-end transaction testing.
 
 ## References
 
