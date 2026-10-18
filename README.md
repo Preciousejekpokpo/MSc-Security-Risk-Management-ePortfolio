@@ -15,8 +15,6 @@ Original submissions are retained as evidence, while retrospective reviews are i
 - [Team Activities](team-activities/) — Individual contributions, collaboration and peer evaluation
 - [Project Evaluation](project-evaluation/) — Critical comparison of Units 6 and 11
 - [Critical Reflection](reflection/) — Final 1,000-word reflective account
-- [Professional Development](professional-development/) — Feedback, skills development and future learning
-- [References](references/) — Academic and professional sources
 
 ## Module Learning Outcomes
 
