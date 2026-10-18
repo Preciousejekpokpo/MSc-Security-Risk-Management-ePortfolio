@@ -1,21 +1,7 @@
 # Project Evaluation
 
-This section evaluates the development of the module project by comparing the Unit 6 status document with the Unit 11 final project outcome.
+This section examines how my approach to risk assessment developed between the Unit 6 group submission and the Unit 11 quantitative risk and disaster recovery assessment.
 
----
+[Read the Unit 6 and Unit 11 Project Evaluation](unit-06-vs-unit-11-evaluation.md)
 
-## Unit 6 Status Document
-
-Information will be added when the project status document is completed.
-
----
-
-## Unit 11 Final Project
-
-Final project evaluation will be added here.
-
----
-
-## Comparison and Reflection
-
-This section will analyse project progression, challenges, improvements, and lessons learned.
+Original submissions and assessment feedback provide supporting evidence.
