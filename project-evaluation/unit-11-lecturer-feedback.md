@@ -1,0 +1,20 @@
+# Unit 11 | Lecturer Feedback
+Security and Risk Management
+
+Individual Project: Executive Summary – Feedback
+
+Participant: 565860
+
+ 
+
+Please note that all grades are provisional and subject to change until they are undergone internal and external moderations, approved by the External Examiner, and ratified by the Examination Board.
+
+Knowledge and Understanding of the Topic/Issues Under Consideration (30%): You demonstrate detailed understanding of how international suppliers, automated warehouses and digital dependencies could affect Pampered Pets. The fault trees, probability tables and distinction between initiating events and failed safeguards explain the risk pathways clearly. Your recovery proposal also considers the complete checkout process, including payment, stock validation and order preservation. However, the chosen 24-hour supply-interruption threshold needs stronger business justification. The recovery design would benefit from a specified database configuration, failover timings and capacity requirements to demonstrate how the proposed architecture could meet the targets. (Grade: 23%).
+
+Criticality (30%): Your analysis goes beyond describing risks by comparing modelling approaches, examining uncertainty and testing how weaker containment or fallback would change the results. You correctly distinguish simulation convergence from validation and recognise that projected improvements depend heavily on controls performing as assumed. The discussion of affordability and vendor dependence also supports balanced recommendations. However, shared failures are discussed without being incorporated into the calculations. A quantified dependency scenario would strengthen the analysis. The substantial assumed improvements in barrier performance also need firmer justification, while platform selection would benefit from comparative costs and operational requirements. (Grade: 22%).
+
+Use of Relevant Sources (20%): You use a broad range of academic publications, standards and official guidance to support risk modelling, supply-chain controls and disaster recovery. The discussion connects sources to methodological choices and distinguishes regulatory obligations from supporting frameworks. However, the probability ranges and expected control improvements remain analyst-defined. Stronger empirical benchmarks or a documented expert-elicitation process would improve their credibility. Sources addressing risk methods in other settings also need clearer explanation of their applicability to this business. (Grade: 15%).
+
+Structure and Presentation (10%): The numbered sections, fault trees, charts and prioritised recommendations make a complex assessment navigable. Tables identify responsibilities, validation evidence and business implications effectively. However, the submission extends well beyond the concise executive-summary format requested. Several tables repeat inputs or findings already explained elsewhere, reducing the prominence of the main decisions. Consolidating these would improve focus. Presenting tables as editable text rather than embedded images would also improve accessibility and readability. Minor proofreading issues remain, including the incomplete percentage statement in Section 3. (Grade: 6%).
+
+Academic Integrity (10%): You clearly identify probabilities as scenario assumptions and explain that simulated results are not observed company failure rates. Citations and references generally make the supporting material traceable, and limitations are acknowledged throughout. However, the simulation needs a reproducible audit trail, such as supporting code or a calculation workbook documenting sampling, parameter handling and the random seed. This could be supplied as supplementary evidence without extending the core report. Reference formatting should also be checked for consistency.
