@@ -3,8 +3,6 @@ Security and Risk Management
 
 Individual Project: Executive Summary – Feedback
 
-Participant: 565860
-
  
 
 Please note that all grades are provisional and subject to change until they are undergone internal and external moderations, approved by the External Examiner, and ratified by the Examination Board.
