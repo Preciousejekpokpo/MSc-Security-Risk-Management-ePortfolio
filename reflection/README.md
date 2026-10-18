@@ -11,8 +11,3 @@ The reflection will consider:
 
 The reflection will follow the Rolfe et al. (2001) reflective framework:
 
-## What?
-
-## So What?
-
-## Now What?
