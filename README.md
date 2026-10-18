@@ -46,3 +46,7 @@ The portfolio follows my development across the twelve units, bringing together 
 
 12. **[Unit 12 – Critical Reflection](reflection/)**  
     Reviewing academic development, professional judgement and future career progression.
+
+## Module Learning Outcomes
+
+This portfolio provides evidence of risk identification and analysis, evaluation of security methodologies, critical engagement with research, and the legal, ethical and professional responsibilities involved in security risk management.
