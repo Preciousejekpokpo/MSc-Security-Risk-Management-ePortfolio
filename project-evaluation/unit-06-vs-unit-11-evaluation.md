@@ -1,0 +1,8 @@
+# Project Evaluation | From Unit 6 to Unit 11
+
+The Unit 6 assessment approached digitalisation as a business decision rather than an inevitable improvement, questioning the proposed growth and sourcing benefits while recognising the resilience of Pampered Pets' existing operations. Although the 74% feedback acknowledged this balanced judgement, our qualitative ratings lacked sufficient justification, while the proposed mitigations offered limited evidence of how residual risk would change.
+
+Unit 11 developed this analysis through fault trees and Monte Carlo simulation, making the relationships between initiating events, failed safeguards and potential losses more explicit. Sensitivity analysis also showed how strongly the results depended on containment and fallback performance, although the 73% feedback exposed a weakness that had persisted from Unit 6. Expressing uncertainty numerically had made the assumptions easier to examine without making them more credible, particularly where control improvements lacked empirical support and shared failures remained outside the calculations.
+
+The disaster recovery proposal revealed a similar tension. Although the multi-region design considered the complete checkout process, its technical feasibility remained uncertain without specified capacity, failover timings and comparative costs. Looking across both assessments, the development was substantial in methodological scope, but less convincing in evidential assurance. Stronger future assessments would require justified business thresholds, transparent assumptions, explicit dependency modelling and reproducible tests, allowing recommendations to rest on demonstrated performance rather than plausible design.
+
