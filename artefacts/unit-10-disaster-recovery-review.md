@@ -1,10 +1,10 @@
 # Unit 10 | Disaster Recovery and Operational Resilience
 
-*Retrospective review informed by Unit 10 reading and subsequent assessment feedback.*
+*Retrospective review informed by Unit 10 reading and assessment feedback.*
 
-Alhazmi and Malaiya (2013) examine the relationship between recovery objectives and cost, while Corbari et al. (2024) emphasise the operational activities supported by technical systems. Although developed in a military context, the latter perspective is relevant to Pampered Pets, where restoring infrastructure would offer limited value if customers remained unable to complete transactions.
+Alhazmi and Malaiya (2013) consider recovery objectives alongside cost, while Corbari et al. (2024) emphasise the operational activities dependent on technical systems. Although Corbari's work concerns military operations, it raises a relevant question for Pampered Pets about whether restoring infrastructure is sufficient when checkout remains unavailable.
 
-These readings raised a question about the proportionality of my Unit 11 recovery proposal. The specified sub-minute objectives justified examining a multi-region architecture, but technical capability alone could not establish whether its cost and complexity were appropriate for a small business. The lecturer's concerns about failover timings and capacity further exposed the distinction between a plausible design and demonstrated recovery. A more defensible recommendation would compare costed alternatives and establish recovery performance through end-to-end transaction testing.
+My Unit 11 design addressed the specified sub-minute objectives through a multi-region architecture, but that did not establish an affordable or demonstrably achievable solution for a four-person business. The missing capacity and failover evidence identified in feedback reinforced the need to compare costed options and test complete transactions rather than infer recovery performance from architecture alone.
 
 ## References
 
