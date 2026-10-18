@@ -2,9 +2,9 @@
 
 *Retrospective review based on independent reading.*
 
-Wunder et al. (2024) question the consistency of CVSS assessments, showing how evaluators can assign different severity ratings to the same vulnerabilities. What interested me was the implication for risk decisions, since a standardised scoring framework may create an appearance of precision without resolving differences in judgement. However, inconsistency alone does not make CVSS unsuitable, particularly when its scores are interpreted alongside evidence of exploitation and organisational consequences.
+Wunder et al. (2024) examine inconsistencies in CVSS scoring, raising doubts about whether a standardised method always produces comparable judgements. Different ratings do not make the framework redundant, but they matter when severity scores are treated as sufficient grounds for prioritisation without considering exploitation evidence or organisational consequences.
 
-This also raises a question about my Pampered Pets assessments, where numerical ratings helped structure decisions but were not always sufficiently justified. I would now place greater emphasis on documenting the reasoning behind scores and testing whether changing their assumptions alters the resulting priorities.
+The same caution applies to my Pampered Pets assessments. Numerical ratings structured the comparisons, yet some lacked clear justification. I would document why a score was chosen and test whether alternative defensible assumptions would change the recommended priorities.
 
 ## Reference
 
