@@ -6,7 +6,6 @@ This portfolio documents my development in security risk management through acad
 
 The Pampered Pets project provides the main evidence of how my approach developed, from qualitative risk identification in Unit 6 to quantitative modelling and disaster recovery evaluation in Unit 11. The portfolio also examines the limitations identified through assessment feedback, particularly the justification of assumptions, evidence quality and reproducibility.
 
-Original submissions are retained as evidence, while retrospective reviews are identified separately.
 
 ## Portfolio Contents
 
