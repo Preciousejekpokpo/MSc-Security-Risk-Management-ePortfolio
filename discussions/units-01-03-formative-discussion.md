@@ -1,21 +1,19 @@
 # Units 1–3 | Fairness, Accountability and Technological Risk
 
-**Activity**  
-Collaborative discussion based on Hancock et al. (2024), supported by peer responses and a final synthesis.
+**Activity**
+
+Collaborative discussion based on Hancock et al. (2024), including peer responses and a final synthesis.
 
 ## Critical Review
 
-My initial argument placed governance at the centre of fairness and accountability in human rights investigations, particularly the risk that organisations might place too much confidence in digital evidence while overlooking the knowledge of affected communities. The peer discussions made me reconsider how far this argument accounted for technical security, since centralised information could expose vulnerable people to harm even before any investigative decision was made. Anooj's concerns about data exposure and Janet's challenge to purely technical solutions brought these issues together, suggesting that protecting information cannot be separated from questioning why it is collected, who controls it and whose interests its use serves.
+My initial argument questioned the confidence placed in digital evidence when investigative decisions overlook the knowledge of affected communities. The peer discussion complicated this position. Anooj's concern about exposing sensitive information showed how harm could arise before investigative findings were reached, while Janet's challenge to technical solutions highlighted why protecting data also requires scrutiny of its collection, control and use.
 
-A more difficult issue emerged around community participation and the authority to challenge investigative findings. Although I agreed with Anooj that participation needed to influence decisions rather than remain symbolic, automatically preventing publication whenever findings were disputed could create another accountability problem, particularly where objections themselves were contested. I favoured independent review that documented disagreements and examined competing evidence, while recognising that such oversight would only be credible if reviewers were sufficiently independent and affected communities had meaningful opportunities to challenge the outcome.
+A more difficult question concerned how much authority communities should have to challenge findings. I agreed with Anooj that participation must influence decisions, but questioned whether contested findings should automatically be withheld, particularly when objections might themselves be disputed. Independent review appeared more defensible, provided it could examine competing evidence without excluding the communities whose experiences were being assessed.
 
-My final synthesis retained the governance concerns raised initially but gave greater weight to evidence provenance, technical protection and the practical influence of community knowledge. What changed was less my original position than how I evaluated proposed safeguards, recognising that even measures intended to improve fairness could introduce competing risks if their consequences and limitations were insufficiently examined.
+My final synthesis retained governance as a central concern while giving greater weight to evidence provenance, technical protection and meaningful participation. I became more cautious about accepting safeguards simply because they were intended to improve fairness, recognising that their practical consequences and accountability also required examination.
 
 ## Supporting Evidence
 
 - Unit 1 initial discussion
-- Unit 2 peer response to Abinel and Anooj
-- Unit 2 peer response to Anooj and Janet
-- Unit 3 summary post
-
-Original forum contributions and references are retained as supporting evidence.
+- Unit 2 peer responses
+- Unit 3 final synthesis
